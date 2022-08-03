@@ -41,7 +41,7 @@ API (mini) How To:
 
 ## Informations pour les développeurs
 
-Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/freshrss_ynh/tree/testing).
+Merci de faire vos pull request sur la [branche testing](https://github.com/7357-2022/hw2k_freshrss_ynh/tree/testing).
 
 Pour essayer la branche testing, procédez comme suit.
 ```

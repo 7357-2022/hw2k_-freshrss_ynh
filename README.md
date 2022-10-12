@@ -35,7 +35,7 @@ API (mini) How To:
 
 ## Documentation and resources
 
-* Yunohost app: <https://github.com/YunoHost-Apps/freshrss_ynh>
+* YunoHost app: <https://github.com/YunoHost-Apps/freshrss_ynh>
 * Official app website: http://freshrss.org/
 * Official admin documentation: https://freshrss.github.io/FreshRSS/
 * Upstream app code repository: https://github.com/FreshRSS/FreshRSS

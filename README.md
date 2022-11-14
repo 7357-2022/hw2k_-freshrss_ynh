@@ -48,7 +48,9 @@ Please send your pull request to the [testing branch](https://github.com/7357-20
 To try the testing branch, please proceed like that.
 ```
 sudo yunohost app install https://github.com/7357-2022/hw2k_freshrss_ynh/tree/testing --debug
+```
 or
+```
 sudo yunohost app upgrade freshrss -u https://github.com/7357-2022/hw2k_freshrss_ynh/tree/testing --debug
 ```
 

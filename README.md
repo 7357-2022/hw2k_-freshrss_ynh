@@ -15,7 +15,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 RSS aggregator with a nice and mobile-friendly design
 
-**Shipped version:** 1.20.0~ynh1
+**Shipped version:** 1.20.1~ynh1
 
 **Demo:** https://demo.freshrss.org
 

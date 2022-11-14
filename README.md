@@ -15,7 +15,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 RSS aggregator with a nice and mobile-friendly design
 
-**Shipped version:** 1.20.0~ynh1
+**Shipped version:** 1.20.1~ynh1
 
 **Demo:** https://demo.freshrss.org
 
@@ -49,7 +49,9 @@ Please send your pull request to the [testing branch](https://github.com/7357-20
 To try the testing branch, please proceed like that.
 ```
 sudo yunohost app install https://github.com/7357-2022/hw2k_freshrss_ynh/tree/testing --debug
+```
 or
+```
 sudo yunohost app upgrade freshrss -u https://github.com/7357-2022/hw2k_freshrss_ynh/tree/testing --debug
 ```
 
